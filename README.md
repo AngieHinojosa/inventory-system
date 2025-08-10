@@ -50,10 +50,13 @@ Esto creará y levantará:
 - inventory_postgres → Base de datos PostgreSQL
 
 📄 Documentación Swagger
+
 Una vez corriendo, accede a:
+
 👉 http://localhost:3000/api
 
 🧪 Tests
+
 Ejecutar tests unitarios:
 npm run test
 
