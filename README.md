@@ -42,7 +42,7 @@ DB_PASS=postgres
 DB_NAME=inventory_db
 
 3️⃣ Levantar la aplicación con Docker
-bash
+
 docker compose up -d --build
 
 Esto creará y levantará:
