@@ -27,6 +27,7 @@ cd inventory-system
 
 2️⃣ Configurar variables de entorno
 Crea un archivo .env en la raíz del proyecto con el siguiente contenido:
+
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
