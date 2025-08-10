@@ -22,16 +22,23 @@ Permite manejar productos, categorías y movimientos de stock, con validaciones,
 ⚙️ Instalación y uso
 
 1️⃣ Clonar el repositorio
+
 git clone https://github.com/TU-USUARIO/inventory-system.git
+
 cd inventory-system
 
 2️⃣ Configurar variables de entorno
+
 Crea un archivo .env en la raíz del proyecto con el siguiente contenido:
 
 DB_HOST=localhost
+
 DB_PORT=5432
+
 DB_USER=postgres
+
 DB_PASS=postgres
+
 DB_NAME=inventory_db
 
 3️⃣ Levantar la aplicación con Docker
